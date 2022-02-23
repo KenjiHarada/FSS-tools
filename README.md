@@ -1,2 +1,2 @@
 # FSS-tools
-The sophisticated finite-size scaling analysis method for continuous phase transition
+Using the finite-size scaling analysis to raw data of a continuous phase transition, we can estimate the accurate value of a critical point and the universal data. Here, we implement our proposed method for the finite-size scaling analysis.
