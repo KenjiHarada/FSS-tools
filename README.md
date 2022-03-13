@@ -1,4 +1,4 @@
 # FSS-tools
-Using the finite-size scaling analysis to raw data of a continuous phase transition, we can estimate the accurate value of a critical point and the universal data.
+The finite-size scaling (FSS) method is a powerful tool for getting universal information of critical phenomena. It estimates universal information from observables of critical phenomena at finite-size systems.
 
-Here, we implement our proposed methods for the finite-size scaling analysis.
+Here, we introduce two FSS methods by using Gaussian process (GP) and a neural network (NN).
