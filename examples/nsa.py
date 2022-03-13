@@ -1,3 +1,8 @@
+# -*- coding: utf-8 -*-
+"""Example code of FSS by NN with fss_torch.
+
+Copyright 2022 Kenji Harada
+"""
 import sys, os
 import math
 import torch.optim as optim
