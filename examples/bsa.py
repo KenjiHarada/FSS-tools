@@ -2,7 +2,7 @@ import sys, os
 import math
 import torch.optim as optim
 
-sys.path.append(os.path.abspath(".."))
+sys.path.append(os.path.abspath("../src"))
 import fss_torch
 
 # the square Ising model
