@@ -4,7 +4,7 @@ The finite-size scaling (FSS) method is a powerful tool for getting universal in
 Here, we introduce an implementation with `PyTorch` of two FSS methods by using Gaussian process (GP) and a neural network (NN).
 
 ## Install
-We prepare the `fss_torch` module to do the FSS methods by GP or NN in [src/fss_torch](src/fss_torch). 
+We prepare the `fss_torch` module to apply the FSS methods by GP or NN in [src/fss_torch](src/fss_torch). 
 
 ### Prerequisites
 The module [PyTorch](https://pytorch.org "PyTorch Home") and [GPyTorch](https://gpytorch.ai "GPyTorch Home") are required.
