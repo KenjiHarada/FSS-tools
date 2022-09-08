@@ -19,11 +19,11 @@ To use our FSS methods by GP and NN, see the following `jupyter` notebooks in [e
  - [FSS method by NN with Python (JAX/Flex)](https://github.com/yonesuke/jaxfss "Jaxfss Site")
 
 ## Citations
-1. Kenji Harada: Bayesian inference in the scaling analysis of critical phenomena, Physical Review E 84 (2011) 056704. 
+1. Kenji Harada: Bayesian inference in the scaling analysis of critical phenomena, Physical Review E 84 (2011) 056704.  
 DOI: [10.1103/PhysRevE.84.056704](https://hdl.handle.net/10.1103/PhysRevE.84.056704 "FSS by GP")
-1. Kenji Harada: Kernel method for corrections to scaling, Physical Review E 92 (2015) 012106.
+1. Kenji Harada: Kernel method for corrections to scaling, Physical Review E 92 (2015) 012106.  
 DOI: [10.1103/PhysRevE.92.012106](https://hdl.handle.net/10.1103/PhysRevE.92.012106 "FSS by GP")
-1. Ryosuke Yoneda and Kenji Harada : in preparation.
+1. Ryosuke Yoneda and Kenji Harada : Neural Network Approach to Scaling Analysis of Critical Phenomena, [arXiv:2209.01777](https://arxiv.org/abs/2209.01777).
 
 ## History
  - March 14, 2022: The first release (v0.1.0)
